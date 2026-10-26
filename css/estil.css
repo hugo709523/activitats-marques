@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+
+    text-decoration: none;
+    list-style: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 + p {
+    color: coral;
+}
+
+.text {
+    color: darkblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#text-titol {
+    color: crimson;
+}
+
+.text-paragraf {
+    color: green;
+}
+
+main p {
+    background-color: aquamarine;
+}
+
+input[type*="mail"]{
+    background-color: red;
+}
+
+/*h1, h2, h3 {
+    display: none;
+}
